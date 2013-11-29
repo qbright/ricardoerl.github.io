@@ -1,0 +1,13 @@
+/*! Basic CSS structure --  @ricardoerl */
+
+/* Vendor */
+@import "vendor/normalize";
+
+/* Modules */
+@import "modules/mixins";
+@import "modules/variables";
+
+/* Partials */
+@import "partials/globals";
+@import "partials/header";
+@import "partials/footer";

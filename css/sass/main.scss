@@ -2,6 +2,7 @@
 
 /* Vendor */
 @import "vendor/normalize";
+@import "vendor/csswizardry-grids";
 
 /* Modules */
 @import "modules/mixins";
@@ -10,4 +11,5 @@
 /* Partials */
 @import "partials/globals";
 @import "partials/header";
+@import "partials/content";
 @import "partials/footer";

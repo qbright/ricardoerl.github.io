@@ -2,18 +2,59 @@
 /* Globals */
 
 * {
-	font-size: 18px;
+	color: $color-dark;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-family: $font-secondary;
+	font-weight: 600;
+}
+
+h1 { font-size: 48px; }
+h2 { font-size: 38px; }
+h3 { font-size: 28px; }
+h4 { font-size: 23px; }
+h5 { font-size: 18px; }
+h6 { font-size: 15px; }
+
+p {
+	font-size: 18px;
+}
 
 /* Header */
 
 .brand-logo {
 	.brand-main-text, .brand-sub-text {
-		font-size: 1em;
+		font-size: 18px;
 		line-height: 1;
 	}
 	.brand-main-text {
+		font-family: $font-primary;
 		font-weight: 600;
+		color: $color-primary;
+	}
+}
+
+/* Content */
+
+.block-item {
+	.post__title, .post__title a{
+		font-family: $font-secondary;
+		font-weight: 600;
+		font-size: $h2;
+		line-height: $h2;
+		color: $color-primary;
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+.block-featured {
+	.post__title, .post__title a{
+		font-size: $h1;
+		line-height: $h1;
 	}
 }

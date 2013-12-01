@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ricardo Ramírez -- Front-end Developer -- @ricardoerl
 
 # THANKS
 
@@ -13,4 +13,4 @@
 
     HTML5, CSS3
     Normalize.css, jQuery, Modernizr
-    Jekyll Bones by @ricardoerl
+    Jekyll Bones

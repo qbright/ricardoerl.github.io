@@ -1,8 +1,4 @@
 
-.list-of-posts {
-	max-width: 800px;
-	margin: 0 auto;
-}
 
 .block-item {
 	margin: 0;
@@ -15,4 +11,15 @@
 	.post__extract {
 		text-align: center;
 	}
+}
+
+/* Lista */
+
+@for $i from 2 through length($colours) {
+  .block-item:nth-of-type(#{$i}) {
+    background-color: nth($colours, $i);
+    .post__title, .post__time,  .post__title a{
+		color: #FFF;
+	}
+  }
 }

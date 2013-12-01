@@ -6,7 +6,7 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: $font-secondary;
+	font-family: $font;
 	font-weight: 600;
 }
 
@@ -29,7 +29,7 @@ p {
 		line-height: 1;
 	}
 	.brand-main-text {
-		font-family: $font-primary;
+		font-family: $font;
 		font-weight: 600;
 		color: $color-primary;
 	}
@@ -39,12 +39,13 @@ p {
 
 .block-item {
 	.post__title, .post__title a{
-		font-family: $font-secondary;
-		font-weight: 600;
+		font-family: $font;
+		font-weight: 700;
 		font-size: $h2;
 		line-height: $h2;
 		color: $color-primary;
 		text-decoration: none;
+		text-transform: uppercase;
 
 		&:hover {
 			text-decoration: underline;

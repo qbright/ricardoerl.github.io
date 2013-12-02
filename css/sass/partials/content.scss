@@ -41,3 +41,16 @@
 }
 
 // background-color: nth($colours, $i);
+
+.block-post {
+	.post__title, .post__time {
+		text-align: center;
+		margin: 0;
+	}
+	.post__title {
+		color: $color-primary;
+	}
+	.post__footer {
+		padding: 30px 0;
+	}
+}

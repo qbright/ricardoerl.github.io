@@ -20,11 +20,24 @@
 
 /* Lista */
 
-@for $i from 2 through length($colours) {
-  .block-item:nth-of-type(#{$i}) {
-    background-color: nth($colours, $i);
-    .post__title, .post__time,  .post__title a{
-		color: #FFF;
+@for $i from 1 through length($colours) {
+	.block-item:nth-of-type(#{$i}) {
+		position:relative;
+		left:0;
+		right:0;
+		background: nth($colours, $i) url(../images/lineal-bg.png) 0 0;
+		-webkit-transition: left 300s linear;
+	    -moz-transition: left 300s linear;
+	    -o-transition: left 300s linear;
+	    transition: left 300s linear;
+		.post__title, .post__time,  .post__title a, .post__content{
+			color: #FFF;
+		}
+		&:hover {
+			left:-9999px;
+		}
 	}
-  }
+	
 }
+
+// background-color: nth($colours, $i);

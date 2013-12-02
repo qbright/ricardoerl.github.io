@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 .brand-logo {
 	.brand-main-text, .brand-sub-text {
 		font-size: 16px;
-		line-height: 1;
+		line-height: .5;
 	}
 	.brand-main-text {
 		font-family: $font-primary;
@@ -32,7 +32,8 @@ h1, h2, h3, h4, h5, h6 {
 		font-weight: 700;
 		color: $color-primary;
 		text-decoration: none;
-		text-transform: uppercase;
+		position: relative;
+		display: block;
 
 		&:hover {
 			text-decoration: underline;

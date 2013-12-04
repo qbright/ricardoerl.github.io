@@ -6,13 +6,13 @@ layout: default
 	<div class="block-content">
 		<header>
 			<h1 class="post__title">{{ page.title }}</h1>
-			<span class="post__time">{{ page.date | date: "%d %B, %Y" }}</span>
+			<p class="post__time">@ {{ page.date | date: "%m&ndash;%d&ndash;%Y" }}</p>
 		</header>
 		<div class="post__content">
 			<p>{{ content }}</p>
 		</div>
 		<footer  class="post__footer">
-			<a href="#">Boton de twitter</a>
+			<a href="https://twitter.com/share" url="" class="twitter-share-button" data-via="ricardoerl" data-related="ricardoerl" data-text="{{ page.title }}" data-url="{{ page.url }}" data-lang="es" data-size="large" data-count="none" data-related="ricardoerl">Tweet</a>
 		</footer>
 	</div>
 </article>

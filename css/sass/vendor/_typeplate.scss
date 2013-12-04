@@ -50,12 +50,12 @@ $measure: $font-base * $line-height;
 // -------------------------------------//
 
 // Text Indentation Value
-$indent-val: 1.5em !default;
+// $indent-val: 1.5em !default;
 
 // Paragraph Styling Boolean
 // 'false' means no vertical whitespace
 // between subsequent paragraphs.
-$paragraph-vertical-whitespace: false !default;
+$paragraph-vertical-whitespace: true !default;
 
 
 // $Variable $Small-Print

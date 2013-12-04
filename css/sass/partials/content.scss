@@ -3,7 +3,9 @@
 .block-item {
 	margin: 0;
 	padding: 20px 0;
-
+	a {
+		text-decoration: none;
+	}
 	.post__title, .post__time {
 		text-align: center;
 		margin: 0;
@@ -25,24 +27,22 @@
 		position:relative;
 		left:0;
 		right:0;
-		background: nth($colours, $i) url(../images/lineal-bg.png) 0 0;
-		-webkit-transition: left 300s linear;
-	    -moz-transition: left 300s linear;
-	    -o-transition: left 300s linear;
-	    transition: left 300s linear;
+		background-color: nth($colours, $i);
 		.post__title, .post__time,  .post__title a, .post__content{
 			color: #FFF;
 		}
 		&:hover {
-			left:-9999px;
+			// background-color:darken(nth($colours, $i), 50%);
+			background-color:lighten(nth($colours, $i), 5%);
 		}
 	}
 	
 }
 
-// background-color: nth($colours, $i);
-
 .block-post {
+	header {
+		padding: 20px 0;
+	}
 	.post__title, .post__time {
 		text-align: center;
 		margin: 0;
@@ -51,6 +51,6 @@
 		color: $color-primary;
 	}
 	.post__footer {
-		padding: 30px 0;
+	
 	}
 }

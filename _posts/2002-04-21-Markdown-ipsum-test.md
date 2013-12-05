@@ -56,15 +56,5 @@ This is a image
 
 
 
-`this is a line of code`
-
-    And these are several lines of code. Pudding sesame snaps cupcake bonbon cupcake. Icing macaroon donut. 
-    
-    More code. Donut cheesecake chocolate cake. Tart pudding wafer dessert chocolate bar jelly-o apple pie dessert. Carrot cake apple pie pie liquorice oat cake lollipop pastry caramels. Jelly-o sesame snaps gummi bears. 
-
-    And more. Sugar plum lemon drops chupa chups chocolate pastry. Faworki applicake applicake brownie topping liquorice chocolate liquorice icing. Cake pudding pudding cake candy sugar plum soufflé.`
-
-
-
 And that's all ...
 This is an **extremely simple and basic** guide. To understand a lot better this kind of dark magic called markdown, logically I recommend the official wiki of the creator. Go, run, jump to [the site of John Gruber](http://daringfireball.net/projects/markdown/).

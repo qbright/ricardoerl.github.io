@@ -6,6 +6,24 @@ html,body {
 
 	background-color: #FFF;
 }
+a {
+	&:hover {
+		color: $color-primary;
+		text-decoration: none;
+	}
+}
+
+pre, code {
+	background-color: $color-dark;
+	padding: 10px;
+	color: $color-light;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
 .container {
 	max-width: 1200px;
 	margin: 0 auto;

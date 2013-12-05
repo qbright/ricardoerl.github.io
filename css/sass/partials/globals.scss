@@ -19,6 +19,19 @@ pre, code {
 	color: $color-light;
 }
 
+blockquote {
+	background: #f9f9f9;
+	border-left: 10px solid $color-primary;
+	margin: 1.5em 0;
+	padding: 0.5em 10px;
+	quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote p {
+  display: inline;
+  font-style: italic;
+}
+
 img {
 	width: 100%;
 	height: auto;

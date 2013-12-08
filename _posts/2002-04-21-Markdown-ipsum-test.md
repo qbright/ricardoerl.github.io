@@ -5,13 +5,6 @@ extract: Lorem ipsum extract
 ---
 
 # A First Level Header
-## A Second Level Header
-### A Third Level Header
-#### A Fourth Level Header
-##### A Fifth Level Header
-###### A Sixth Level Header 
-
-
 
 This is a paragraph. Cupcake ipsum dolor sit amet. Tiramisu liquorice gummies powder. Biscuit pastry pastry cake candy gummies carrot cake gingerbread. Gummi bears tart cupcake bonbon sugar plum biscuit. Icing marzipan tootsie roll. Pie gingerbread dragée wypas cookie. Faworki bonbon topping sweet soufflé jelly. 
 

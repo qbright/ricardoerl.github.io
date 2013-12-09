@@ -68,6 +68,10 @@ code {
 	}
 	.post__time {
 		font-size: 16px;
+		a {
+			color: #fff;
+		}
+		
 		@media only screen and (max-width:637px) {
 			font-size: 14px;
 		}
@@ -102,7 +106,12 @@ code {
 		}
 	}
 	.post__content {
-		
+		p:first-of-type {
+			font-size: 22px;
+			@media only screen and (max-width:637px) {
+				font-size: 18px;
+			}
+		}
 	}
 	.post__footer {
 		padding: 30px 0;

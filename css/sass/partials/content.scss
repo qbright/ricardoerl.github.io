@@ -1,5 +1,4 @@
 
-
 .block-item {
 	margin: 0;
 	padding: 20px 0;
@@ -9,6 +8,9 @@
 	.post__title, .post__time {
 		text-align: center;
 		margin: 0;
+	}
+	.post__author {
+		text-decoration: underline;
 	}
 	.post__extract {
 		text-align: center;

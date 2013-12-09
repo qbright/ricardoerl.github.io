@@ -6,13 +6,15 @@ layout: default
 	<div class="block-content">
 		<header>
 			<h1 class="post__title">{{ page.title }}</h1>
-			<p class="post__time">Publicado {{ page.date | date: "%m&ndash;%d&ndash;%Y" }}</p>
+			<p class="post__time">Publicado un {{ page.date | date: "%d&ndash;%m&ndash;%Y" }} por <a href="http://www.ricardoramirez.me/" class="post__author" target="_blank">Ricardo Ram&iacute;rez</a></p>
 		</header>
+		
 		<div class="post__content">
-			<p>{{ content }}</p>
+			{{ content }}
 		</div>
+	
 		<footer  class="post__footer">
-			<a href="https://twitter.com/share" url="" class="twitter-share-button" data-via="ricardoerl" data-related="ricardoerl" data-text="{{ page.title }}" data-url="{{ page.url }}" data-lang="es" data-size="large" data-count="none" data-related="ricardoerl">Tweet</a>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://ricardoerl.github.io{{page.url}}"  data-via="ricardoerl" data-text="{{ page.title }}" data-lang="es" data-size="large" data-count="none" data-related="ricardoerl">Tweet</a>
 		</footer>
 	</div>
 </article>

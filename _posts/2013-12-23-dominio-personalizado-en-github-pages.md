@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dominio personalizado en GitHub Pages
+description: GitHub Pages es por mucho la mejor forma de alojar tu proyecto desarrollado con Jekyll, es gratis y ademas te permite utilizar un dominio propio.
 ---
 
 ![GitHub Pages]({{ site.url }}/images/posts-images/GitHub-Pages/GitHub-Pages.png "GitHub Pages")

@@ -2,7 +2,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"> <!--<![endif]-->
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,11 +22,9 @@
 		{% if page.title %}<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 		{% else %}<meta property="og:url" content="{{ site.url }}">{% endif %}
 		{% if page.date %}
-		<meta property="article:author" content="https://www.facebook.com/Ricardo.RamirezLara">
+		<meta property="article:author" content="https://www.facebook.com/Ricardo.RamirezLara" />
 		{% endif %}
 		<meta property="og:image" content="{{ site.url }}/images/logo-photo.jpg">
-
-		<meta property="fb:admins" content="{{ site.fb_profile_id }}" />
 
 		<link rel="shortcut icon" href="favicon.png" />
 

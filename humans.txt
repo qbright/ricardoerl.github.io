@@ -5,12 +5,8 @@
 
     Ricardo Ramírez -- Front-end Developer -- @ricardoerl
 
-# THANKS
-
-    <name>
-
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, Jekyll
     Normalize.css, jQuery, Modernizr
     Jekyll Bones

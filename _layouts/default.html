@@ -8,7 +8,9 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>{{ page.title }} &ndash; Ricardo Ram&iacute;rez &ndash; Front~End developer</title>
+		{% if page.title %}<title>{{ page.title }} &ndash; Ricardo Ram&iacute;rez &ndash; Front~End developer</title>
+		{% else %}<title>Ricardo Ram&iacute;rez &ndash; Front~End developer</title>{% endif %}
+
 		<meta name="author" content="Ricardo Ramirez">
 		<meta name="description" content="{{ site.description }}">
 

@@ -4,10 +4,10 @@ pygments: true
 permalink: /:year/:month/:title
 
 # Info
-title: Blog de Ricardo Ramírez
-author: Ricardo Ramírez
+title: Blog de Ricardo Ram&iacute;rez
+author: Ricardo Ram&iacute;rez
 email: hola@ricardoerl.com
-description: Ricardo Ramírez es un Front-End Developer y diseñador web de El Salvador
+description: Ricardo Ram&iacute;rez es un Front-End Developer y diseñador web de El Salvador
 url: http://ricardoerl.com
 
 # Open Graph

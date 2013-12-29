@@ -16,9 +16,31 @@ a {
 
 pre, code {
 	background-color: $color-dark;
-	padding: 10px;
 	color: $color-light;
-	margin-bottom: 70px;
+}
+pre {
+	counter-reset: line-numbering;
+}
+
+/* Add the incrementing line number before each .line */
+pre .line:before {
+	content: counter(line-numbering);
+	counter-increment: line-numbering;
+	padding-right: 1em; /* space after numbers */
+	width: 1.5em !important;
+	color: #fff !important;
+	display: inline-block;
+	text-align: right;
+	opacity: 0.3;
+}
+
+/* Style the pre element itself */
+pre {
+	padding: 10px 20px 10px 10px;
+	border: 1px solid #888;
+	margin: 20px 0 40px 0;
+	border-left: 4px solid #888;
+	overflow-x: auto;
 }
 
 blockquote {

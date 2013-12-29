@@ -29,9 +29,12 @@ p, li {
 
 code {
 	font-family: $font-tertiary;
+	font-size: 18px;
+	line-height: 1.7em;
+	padding: 5px;
 
 	@media only screen and (max-width:420px) {
-		font-size: 18px;
+		font-size: 14px;
 	}
 }
 
@@ -112,7 +115,7 @@ code {
 	.post__content {
 		p {
 			line-height: 34px;
-			margin-bottom: 50px;
+			margin-bottom: 40px;
 		}
 		p:first-of-type {
 			font-size: 28px;
@@ -120,6 +123,9 @@ code {
 			@media only screen and (max-width:420px) {
 				font-size: 18px;
 			}
+		}
+		code {
+			
 		}
 	}
 	.post__footer {

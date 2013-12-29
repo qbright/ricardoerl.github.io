@@ -32,7 +32,7 @@ fb_profile_id: 772745716 # ID del perfil de facebook del autor
 Para implementar el protocolo es necesario agregar el siguiente atributo a la etiqueta `<html>` del proyecto:
 
 ```
-<html class="no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 ```
 
 Entre las etiquetas Open Graph básicas están:

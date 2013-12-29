@@ -80,7 +80,7 @@ Aquí está el código que utilizo en mi blog:
 	<meta property="article:author" content="https://www.facebook.com/Ricardo.RamirezLara" />
 {% endif %}
 
-<meta property="og:image" content="{{ site.url }}{{ site.og_image }}.jpg">
+<meta property="og:image" content="{{ site.url }}/{{ site.og_image }}">
 {% endraw %} 
 ```
 

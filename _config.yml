@@ -2,6 +2,7 @@ markdown: rdiscount
 exclude: [sass]
 pygments: true
 permalink: /:year/:month/:title
+encoding: utf-8
 
 # Gegenral Info
 title: Blog de Ricardo Ramirez

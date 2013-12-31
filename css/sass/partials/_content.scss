@@ -64,3 +64,15 @@
 	
 	}
 }
+
+.post__content {
+	p img {
+		width: 120%;
+		margin-left: -10%;
+
+		@media only screen and (max-width:860px) {
+			width: 100%;
+			margin-left: auto;
+		}
+	}
+}

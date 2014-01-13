@@ -8,7 +8,7 @@ description: La idea de una "universidad" virtual en El Salvador es interesante,
 
 La idea de una "universidad" virtual en El Salvador es interesante, lástima que al parecer la educación sigue siendo parte del paquete de propuestas populistas en los diferentes planes de gobierno.
 
-Esta semana pregunté en twitter (y luego por correo electrónico) sobre unas de las propuestas más promovidas: la **universidad virtual**. La propuesta me pareció más interesante que posible y necesitaba leer más sobre el tema, pero no existe ningún documento técnico sobre tal proyecto. Y como era de esperar, no recibí ninguna respuesta. Estoy seguro que es el mismo caso para las demas propuestas que tengan que ver con ciencia o tecnología.
+Esta semana pregunté en twitter (y luego por correo electrónico) sobre unas de las propuestas más promovidas: la **universidad virtual**. La propuesta me pareció más interesante que posible y necesitaba leer más sobre el tema, pero no existe ningún documento técnico sobre tal proyecto. Y como era de esperar, no recibí ninguna respuesta. Estoy seguro que es el mismo caso para las demás propuestas que tengan que ver con ciencia o tecnología.
 
 **¿Qué tipo de plataforma es, que tecnología utilizará? ¿Qué acreditación tendrá por parte del [MINED](http://www.mined.gob.sv/)? ¿Son videos o solo evaluaciones, que papel tendrá la UES? ¿Qué tipo de capacitaciones recibirán los docentes? ¿Es como [Khan Academy](https://es.khanacademy.org) o [edX](https://www.edx.org/)? ¿Cual es el presupuesto? ¿En cuánto tiempo estará disponible?**
 

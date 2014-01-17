@@ -26,3 +26,4 @@ Al ser parte de [inuitcss](http://inuitcss.com/), mi favorito es [csswizardry-gr
 
 En conclusión, son cada vez más las estructuras complejas que se deben adaptar al constante cambios de escenarios en el desarrollo web y por ellos es cada vez más importante la utilización de técnicas y sistemas que permitan el alcance de tales objetivos.
 
+¿Qué sistema de grids usas, por qué? estoy en twitter como [@ricardoerl](https://twitter.com/ricardoerl)

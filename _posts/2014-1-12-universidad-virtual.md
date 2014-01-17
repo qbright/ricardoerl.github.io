@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Universidad virtual
-description: La idea de una "universidad" virtual en El Salvador es interesante, lastima que al parecer la educacion sigue siendo parte del paquete de propuestas populistas en los diferentes planes de gobierno.
+description: La idea de una universidad virtual en El Salvador es interesante, lastima que al parecer la educacion sigue siendo parte del paquete de propuestas populistas en los diferentes planes de gobierno.
 ---
 
 <blockquote class="twitter-tweet" lang="es"><p><a href="https://twitter.com/FMLNoficial">@FMLNoficial</a> ¿donde puedo encontrar el anteproyecto de la Universidad virtual?</p>&mdash; Ricardo Ramírez (@ricardoerl) <a href="https://twitter.com/ricardoerl/statuses/421479710703353856">enero 10, 2014</a></blockquote>

@@ -2,6 +2,7 @@
 layout: post
 title: Open Graph en Jekyll
 description: Open Graph es un protocolo utilizado por Facebook que permite estruturar informacion social en una pagina web. Aqui explico un poco como implementarlo en Jekyll.
+color: 2980B9
 ---
 
 [Open Graph](http://ogp.me/) es un protocolo utilizado por Facebook que permite estructurar información social en una página web. Aquí explico un poco cómo integrarlo en Jekyll para controlar la manera en la que nuestro contenido es compartido.

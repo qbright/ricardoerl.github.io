@@ -2,6 +2,7 @@
 layout: post
 title: Responsive Grids
 description: El grid es parte fundamental del esquema de un sitio web, permite orden y dan estructura a todo el contenido. Aqui explico un poco como lo utilizo en mis proyectos.
+color: 7F8C8D
 ---
 
 ![Responsive Grids]({{ site.url }}/images/posts-images/responsive-grids/singularity-grid-system.png)

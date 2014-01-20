@@ -2,6 +2,7 @@
 layout: post
 title: Lista de colores con Sass
 description: Funciones avanzadas, como las directivas de control, hacen que una lista en Sass sea muy util para generar bloques de codigo.
+color: 8E44AD
 ---
 
 Funciones avanzadas, como las directivas de control `@if` `@for` `@each` `@while`, hacen que una lista en Sass sea muy útil para generar bloques de código. Aquí explico cómo está implementado en mi blog.

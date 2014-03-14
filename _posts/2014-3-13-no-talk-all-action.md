@@ -15,13 +15,13 @@ Después de escuchar del evento y tener la oportunidad de conocer a algunos orga
 
 ## Hagámonos millonarios
 
-Las ideas no valen nada. Luego de darle tantas vueltas en mi cabeza, pensar tantas buenas características e imaginar los millones de dólares que iba a ganar, fue interesante ver que nadie apoyaba mí idea, a nadie más le interesaba. Fue interesante y duro, pero bastante alentador para seguir afinándola.
+Las ideas no valen nada. Luego de darle tantas vueltas en mi cabeza, pensar tantas buenas características e imaginar los millones de dólares que iba a ganar, fue interesante ver que nadie apoyaba mí idea, a nadie más le interesaba. Fue interesante y duro, pero bastante alentador para seguir afinándola como sigo haciéndolo hasta el momento.
 
-Comencé apoyando una idea y terminé trabajando en otra, de eso se trató Startup Weekend y fue algo de lo que me di cuenta bastante rápido. Se presentaron 110 ideas de negocio de donde salieron alrededor de 50 ideas y se escogieron 14 para trabajar. Para saber un poco más, [Rafael Ibarra escribió un poco más sobre cada una de las ideas que participaron](http://blogs.laprensagrafica.com/litoibarra/?p=2845). 
+Comencé apoyando una idea y terminé trabajando en otra, de eso se trató Startup Weekend y fue algo de lo que me di cuenta bastante rápido. Se presentaron aproximadamente 110 personas donde salieron alrededor de 50 ideas de negocio y se escogieron 14 para trabajar durante el fin de semana. Para saber un poco más, [Rafael Ibarra escribió un poco más sobre cada una de las ideas que participaron](http://blogs.laprensagrafica.com/litoibarra/?p=2845). 
 
 ## Maze
 
-Tuve la suerte de trabajar en Maze, una aplicación de geolocalización que te brinda información en tiempo real sobre el flujo de personas en algún lugar. Eso es en resumen y espero poder escribir más sobre este excelente proyecto más adelante. Lo curioso es que aunque no quedamos entre los finalista, ya tuvimos varios contactos con instituciones que están muy interesantes en el proyecto.
+Encontré un excelente equipo y tuve la suerte de trabajar en Maze, una aplicación de geolocalización que te brinda información en tiempo real sobre el flujo de personas en algún lugar. Eso es en resumen y espero poder escribir más sobre este excelente proyecto más adelante. Lo curioso es que aunque no quedamos entre los finalista, ya tuvimos varios contactos con instituciones que están muy interesantes en el proyecto.
 
 Para recibir más información del proyecto por el momento se pueden suscribir en el [sitio oficial](http://getmaze.co/) o buscarnos en [Facebook](https://www.facebook.com/getmaze.co).
 

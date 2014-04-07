@@ -7,20 +7,20 @@ color: f39c12
 
 Estos últimos meses tuve la oportunidad de probar 2 de las plataformas más populares para aprender sobre diseño y desarrollo web: [**Treehouse**](http://teamtreehouse.com/) y [**Code School**](https://www.codeschool.com). Entre mis objetivos estaba reforzar algunos conceptos básicos y de paso aprender alguna nueva tecnología.
 
-Algo que me pareció muy interesante fue el hecho de los diferentes enfoques de cada una de las plataformas frente a los usuarios y las ventajas y desventajas que traía cada una. Más que una “reseña” propiamente, quiero escribir mi opinión sobre mi experiencia y tal vez ayudar a alguien a tomar la decisión de utilizar alguno de estos servicios como herramienta de aprendizaje:
+Algo que me pareció muy interesante fue el hecho de los diferentes enfoques de cada una de las plataformas frente a los usuarios y las ventajas y desventajas que trae cada una. Más que una “reseña” propiamente, quiero escribir sobre mi experiencia y tal vez ayudar a alguien a tomar la decisión de utilizar alguno de estos servicios como herramienta de aprendizaje:
 
 ## Diversidad de cursos
 ![Diversidad de cursos]({{ site.url }}/images/posts-images/e-learning/courses.jpg)
-En este punto, Treehouse lleva mucha ventaja. No logre contar todos los cursos disponibles pero me di cuenta que tiene más de 700 videos, distribuidos en diferentes temas desde Photoshop hasta como hacer negocios. Por otro lado, Code School le sigue con un poco más de 50 videos.
+En este punto, Treehouse lleva mucha ventaja. No logré contar todos los cursos disponibles pero me di cuenta que tiene más de 700 videos, distribuidos en diferentes temas desde Photoshop hasta como hacer negocios. Por otro lado, Code School le sigue con un poco más de 50 videos.
 
-Soy sincero, aunque la producción de los videos de Treehouse es muy buena, a veces me resultó un poco monótona. Mientra que en Code School, la temática para cada curso es diferente y eso hace un poco menos tedioso el aprender frente a un monitor.
+Soy sincero, aunque la producción de los videos de Treehouse es muy buena, a veces me resultó un poco monótona. Mientra que en Code School, la temática para cada curso es diferente y eso hace un poco menos tedioso el aprender frente a un monitor, sin mencionar que la duración de los videos es un poco menor.
 
 ## Nivel de dificultad
-Aquí es donde pienso que ambos servicios tienen un enfoque muy diferente y por ellos es que es necesarios tener muy definido cual es nuestra necesidad a la hora de elegirlos. En lo personal, creo que Treehouse tiene como objetivo a personas que van iniciando o que nunca han tenido ninguna introducción a temas de desarrollo y diseño; algo muy bueno si te interesa entrar de lleno en la industria pero no si ya llevas algún tiempo trabajando en el entorno.
+Aquí es donde pienso que ambos servicios tienen un enfoque muy diferente y por ellos es que es necesarios tener muy definido cual es nuestra necesidad a la hora de elegirlos. En lo personal, creo que Treehouse tiene como objetivo a personas que van iniciando y que nunca han tenido introducción alguna sobre temas de desarrollo y diseño; algo muy bueno sí te interesa entrar de lleno en la industria pero no sí ya llevas algún tiempo trabajando en el entorno.
 
 Por otro lado, Code School da por hecho que ya sabes los fundamentos y se lanza directamente a contenido un poco más avanzado. Lo anterior además de presentar un mayor reto personal, es perfecto si tu meta es avanzar rápido.
 
-Metodología de enseñanza
+## Metodología de enseñanza
 ![Metodología de enseñanza]({{ site.url }}/images/posts-images/e-learning/rewards.jpg)
 Una de las dudas que tenía antes de probar la opción de la educación en línea era la forma de evaluación. En este punto, ambas plataformas tienen una excelente forma de hacerte trabajar y ver tus resultados de inmediato: editores en línea, consolas en el navegador, pistas, etc. 
 
